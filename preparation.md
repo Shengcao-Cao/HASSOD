@@ -77,7 +77,7 @@ The dataset paths are defined in `detector_training/data/datasets/builtin.py`. Y
 Please check the data preparation steps.
 
 ##### SA1B
-SA1B contains 11M images randomly split into 1,000 packs. We use the images from the first pack (with index `sa_000000.tar`) to evaluate object detectors. Download this image pack and uncompress it. Then download our pre-processed annotation file [here](). The folder structure should look like:
+SA1B contains 11M images randomly split into 1,000 packs. We use the images from the first pack (with index `sa_000000.tar`) to evaluate object detectors. Download this image pack and uncompress it. Then download our pre-processed annotation file [here](https://drive.google.com/file/d/18tQFcZhYG5yTyW_Sy130rP84nawxZjip/view?usp=sharing). The folder structure should look like:
 ```
 HASSOD
 |-- datasets
@@ -93,7 +93,7 @@ HASSOD
 ```
 
 ##### MS-COCO + LVIS
-In the ablation study, we evaluate various models against annotations of MS-COCO and LVIS on the `val2017` split, because they are complementary to each other. LVIS uses the same images as MS-COCO, but instead labels more classes of objects non-exhaustively. After combining the two sets of annotations and removing duplicates, there are about 20 annotations per image. In the detector training example we provide, we also evaluate on this "MS-COCO + LVIS" dataset. Download the processed annotation file [here]() and move it into `annotations/hassod`:
+In the ablation study, we evaluate various models against annotations of MS-COCO and LVIS on the `val2017` split, because they are complementary to each other. LVIS uses the same images as MS-COCO, but instead labels more classes of objects non-exhaustively. After combining the two sets of annotations and removing duplicates, there are about 20 annotations per image. In the detector training example we provide, we also evaluate on this "MS-COCO + LVIS" dataset. Download the processed annotation file [here](https://drive.google.com/file/d/1be9_GzTb-zobkBYyF6yTZPldMyE3vz36/view?usp=sharing) and move it into `annotations/hassod`:
 ```
 HASSOD
 |-- datasets
