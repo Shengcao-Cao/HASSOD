@@ -1,0 +1,8 @@
+/third_party
+/datasets
+/checkpoints
+/save
+/jobs
+/logs
+
+__pycache__
