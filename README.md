@@ -4,7 +4,7 @@ This is the official PyTorch implementation of our *NeurIPS 2023* paper:
 
 **HASSOD: Hierarchical Adaptive Self-Supervised Object Detection**
 
-[[Project Page]](https://hassod-neurips23.github.io/) [[Paper-OpenReview]](https://openreview.net/pdf?id=sqkGJjIRfG) [[Video-YouTube]](https://www.youtube.com/watch?v=s8u7tEKg5ew) [[Video-Bilibili]](https://www.bilibili.com/video/BV1pg4y1Z7CK)
+[[Project Page]](https://hassod-neurips23.github.io/) [[Paper-arXiv]](https://arxiv.org/abs/2402.03311) [[Paper-OpenReview]](https://openreview.net/pdf?id=sqkGJjIRfG) [[Video-YouTube]](https://www.youtube.com/watch?v=s8u7tEKg5ew) [[Video-Bilibili]](https://www.bilibili.com/video/BV1pg4y1Z7CK)
 
 [Shengcao Cao](https://shengcao-cao.github.io/), [Dhiraj Joshi](https://research.ibm.com/people/dhiraj-joshi), [Liang-Yan Gui](https://cs.illinois.edu/about/people/faculty/lgui), [Yu-Xiong Wang](https://yxw.web.illinois.edu/)
 
