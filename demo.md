@@ -1,5 +1,5 @@
 ## Demo
-Once you have finished the preparation for the [environment setup]((https://github.com/Shengcao-Cao/HASSOD/blob/main/preparation.md)) and downloaded [our model](https://drive.google.com/file/d/1pZ1yP3cs-Ezrw3OVJxi4arUFkxQ8W5fo/view?usp=sharing), you can try out the demo and see how HASSOD works on your image.
+Once you have finished the preparation for the [environment setup](https://github.com/Shengcao-Cao/HASSOD/blob/main/preparation.md) and downloaded [our model](https://drive.google.com/file/d/1pZ1yP3cs-Ezrw3OVJxi4arUFkxQ8W5fo/view?usp=sharing), you can try out the demo and see how HASSOD works on your image.
 
 Check the following example:
 ```
