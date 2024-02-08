@@ -18,6 +18,7 @@ HASSOD is a fully self-supervised approach for object detection and instance seg
 To use our code and reproduce the results, please follow these detailed documents step by step:
 - [Preparation](https://github.com/Shengcao-Cao/HASSOD/blob/main/preparation.md): Prepare the environment, data, and pre-trained models
 - [Reproduction](https://github.com/Shengcao-Cao/HASSOD/blob/main/reproduction.md): Produce pseudo-labels and train the object detector (download links included for our pseudo-labels and model)
+- [Demo](https://github.com/Shengcao-Cao/HASSOD/blob/main/demo.md): Once the preparation is finished, you can try out the demo code and test our model on any image.
 
 ## 🙏 Acknowledgements
 Our code is developed based on the following repositories:
